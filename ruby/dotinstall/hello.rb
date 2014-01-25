@@ -1,11 +1,12 @@
-print "Hello world\n"             # ‚»‚Ì‚Ü‚Ü•\¦
-print "Hello world", "world"      # •¡”‚Ì•¶š—ñ‚ğ‘±‚¯‚Ä
-puts "hello world again"          # ‰üs‚Å•\¦
-p "Hello world 3"                 #ƒIƒuƒWƒFƒNƒgŒ^‚ª‚í‚©‚é‚æ‚¤‚É•\¦
+print "Hello world\n"             # ãã®ã¾ã¾è¡¨ç¤º
+print "Hello world", "world"      # è¤‡æ•°ã®æ–‡å­—åˆ—ã‚’ç¶šã‘ã¦
+puts "hello world again"          # æ”¹è¡Œã§è¡¨ç¤º æœ«å°¾ã«æ”¹è¡Œã‚ã‚Šã€‚
+p "Hello world 3"                 #ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆå‹ãŒã‚ã‹ã‚‹ã‚ˆã†ã«è¡¨ç¤º
 
-# ƒRƒƒ“ƒg
+
+# ã‚³ãƒ¡ãƒ³ãƒˆ
 
 =begin
 
-‚±‚±‚ÍƒRƒƒ“ƒg
+ã“ã“ã¯ã‚³ãƒ¡ãƒ³ãƒˆ
 =end
